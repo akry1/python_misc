@@ -1,0 +1,36 @@
+Average Local Clustering : 0.0431384597355
+Global Clustering: 0.00363919069741
+
+Nodes with max Jaccard Similarity : 1200 1213
+Page Rank Centrality:935       0.000554160364842
+35       0.000557941899775
+37       0.000563786575318
+743       0.000567207456506
+22       0.000568357135895
+17       0.000606405210184
+52       0.000606413574338
+1       0.000688860175835
+293       0.000701712707248
+2       0.000793636462946
+Eigenvector Centrality:37       0.116099584935
+743       0.116518509332
+46       0.11832787195
+41       0.123998121218
+35       0.148511782397
+22       0.154405680583
+293       0.161880254193
+52       0.166028640603
+17       0.181895731278
+2       0.284637197991
+Degree Centrality:41       0.00298656047785
+743       0.00348432055749
+37       0.00348432055749
+35       0.00348432055749
+22       0.00398208063713
+52       0.00447984071677
+1       0.00447984071677
+17       0.00497760079642
+293       0.00846192135391
+2       0.0109507217521
+Rank correlation between Pagerank Centrality and Eigenvector Centrality: 0.996127284189Rank correlation between Pagerank Centrality and Degree Centrality: 0.5334714388Rank correlation between Degree Centrality and Eigenvector Centrality: 0.533124615591
+Nodes with max Jaccard Similarity : 1200 1213
